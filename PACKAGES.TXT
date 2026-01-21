@@ -1,0 +1,21 @@
+EXPRESS JS
+    npm i express
+
+MORAGN
+    npm i morgan
+
+SEQUELIZE 
+    npm i sequelize
+
+SQLITE3
+    npm i sqlite3
+
+BCRYPT
+    npm i bcrypt
+
+JSONWEBTOKEN
+    npm i jsonwebtoken
+
+
+EXPRESS-VALIDATOR
+    npm i express-validator
