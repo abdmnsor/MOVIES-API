@@ -46,7 +46,7 @@ A RESTful API built with Node.js and Express for managing movies, user authentic
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/abdmnsor/MOVIES-API.git>
    cd MOVIES-API
    ```
 
@@ -297,5 +297,6 @@ This project is licensed under the ISC License.
 ---
 
 **Note:** Remember to change the default admin credentials in production and use strong, unique passwords!
+
 
 
