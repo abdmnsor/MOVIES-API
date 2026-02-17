@@ -287,7 +287,6 @@ This project is licensed under the ISC License.
 
 **abd**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -298,4 +297,5 @@ This project is licensed under the ISC License.
 ---
 
 **Note:** Remember to change the default admin credentials in production and use strong, unique passwords!
+
 
